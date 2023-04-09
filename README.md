@@ -19,3 +19,5 @@ Este projeto é uma aplicação web simples e eficiente que permite aos usuário
 - Clone o repositório ou faça o download do projeto
 - Copie todos os arquivos para um servidor web com suporte a PHP (por exemplo, um servidor LAMP)
 - Acesse o arquivo index.php no navegador para começar a usar a aplicação
+
+<a href="https://www.flaticon.com/free-icons/calendar" title="calendar icons">Calendar icons created by Freepik - Flaticon</a>
